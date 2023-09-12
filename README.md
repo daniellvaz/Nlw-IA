@@ -16,11 +16,11 @@
 
 [About the project](#about)
 
-[Gering started](#gering-started)
+[Gering started](#-gering-started)
 
-[Starting the project](#Starting-the-project)
+[Starting the project](#-starting-the-project)
 
-[Contributing](#contributing)
+[Contributing](#-contributing-to-uploadia)
 
 <hr>
 
