@@ -1,10 +1,11 @@
 import fastify from "fastify";
-import youtube from 'youtube-api';
+import { google } from 'googleapis'
 
 const app = fastify()
 
-app.get('/', (request, reply) => {
-  reply.send('Upload.ia 1.0.0')
+app.post('/auth', (request, reply) => {
+
+  const service = google.youtube('v3')
 })
 
 app.listen({ port: 5555 })
